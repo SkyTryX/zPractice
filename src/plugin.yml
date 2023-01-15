@@ -1,0 +1,6 @@
+main: fr.skytryx.zpractice.main
+name: zPractice
+version: 0.0.0
+description: Practice/ArenaPvP Plugin
+load: POSTWORLD
+author: SkyTryX
